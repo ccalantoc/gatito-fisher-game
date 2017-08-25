@@ -1,0 +1,72 @@
+/*
+font-family: 'Bellefair', serif;
+font-family: 'Lemonada', cursive;
+*/
+body {
+  background-image: url("background3.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-family: 'Bellefair', serif;
+
+}
+h1{
+	font-family: 'Lemonada', cursive;
+	font-size: 50px;
+}
+h2{
+	margin-top: -50px;
+	font-size:60px;
+	color:maroon;
+}
+.body{
+	margin-top: -50px;
+	background: rgba(255, 255, 255, 0.5);
+	height:950px;
+}
+#main{
+	text-align: center;
+}
+#context{
+	font-size: 45px;
+}
+table{
+	width:400px;
+	margin:auto;
+}
+th{
+	font-size: 30px;
+}
+td{
+	font-size: 25px;
+}
+
+#btn{
+	margin-top: 40px;
+	text-align: center;
+}
+a{
+	font-size: 30px;
+	text-decoration: none;
+	cursor: pointer;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border: solid 1px black;
+	text-align: center;
+	padding:20px;
+	color:black;
+}
+a:hover{
+	background: transparent;
+	border: solid 1px blue;
+	color: blue;
+	box-shadow:5px 5px 15px 5px grey;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+}
