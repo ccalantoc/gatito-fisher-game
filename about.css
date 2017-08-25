@@ -1,0 +1,82 @@
+body{
+	background-image: url("sea2.png");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	font-family: 'Bellefair', serif;
+
+}
+#back_pg{
+	font-size: 30px;
+}
+a{
+	text-decoration: none;
+}
+#body{
+	background: rgba(255, 255, 255, 0.5);
+	width:80%;
+	height:2000px;
+	margin:auto;
+}
+#main{
+	padding:20px;
+}
+#title{
+	text-align: center;
+}
+h1{
+	font-family: 'Lemonada', cursive;
+	font-weight: 100px;
+	font-size: 50px;
+}
+h2{
+	font-size:40px;
+	margin-top: -50px;
+	color:maroon;
+}
+h3{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color:darkred;
+}
+p{
+	font-size:30px;
+	text-align: center;
+	width:500px;
+	margin:auto;
+}
+#people{
+	width:800px;
+	margin:auto;
+}
+.names h2{
+	color:darkblue;
+	padding:20px;	
+	margin-top: 55px;
+}
+.names{
+	background-color: white;
+	height:300px;
+	margin-top: -20px;
+}
+.img{
+	margin-left: 20px;
+	margin-top: -10px;
+	display: inline-block;
+}
+.context{
+	float: right;
+	font-size: 25px;
+	width:500px;
+	margin-right: 100px;
+	margin-top: 20px;
+}
+footer{
+	text-align: center;
+	font-size: 20px;
+	padding:20px;
+}
+#gwc_logo{
+	background-color: white;
+	padding:20px;
+}
